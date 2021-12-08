@@ -43,4 +43,4 @@ Como usar:
 4) Proveer una carpeta "Salida" a donde van a ir los resultados. (.csv, con nombre por defecto "results" en UTF-8)
 5) Disfrutar de los resultados!
 
-Note: En el futuro, espero mejorar el sistema de publicaciones para ser obediente con la filosifia de builds deterministas (https://reproducible-builds.org/docs/deterministic-build-systems/) y para darle mayor seguridad y estabilidad al usuario final. 
+Note: En el futuro, espero mejorar el sistema de publicaciones para ser obediente con la filosofia de builds deterministas (https://reproducible-builds.org/docs/deterministic-build-systems/) y para darle mayor seguridad y estabilidad al usuario final. 
