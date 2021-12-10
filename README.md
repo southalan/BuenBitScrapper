@@ -26,7 +26,7 @@ If this was useful to you and want to help me keep developing this kind of stuff
 
 ![imagen](https://user-images.githubusercontent.com/80550822/145650828-95c3fe7e-368f-4740-a85e-fcf4ad76ed96.png)
 
-ETH: 0x7c56d55cB972D28049f9202b3231e4cEa9A83510 
+ETH or BNB (BSC): 0x7c56d55cB972D28049f9202b3231e4cEa9A83510 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Un scrapper offline para tickets de BuenBit, un exchange popular de criptomonedas de Argentina.
@@ -55,4 +55,4 @@ Si te ha resultado util y te gustaria ayudarme a seguir desarrollando este tipo 
 
 ![imagen](https://user-images.githubusercontent.com/80550822/145650840-c18b355d-c741-4e48-bd4c-f87b65ad6b78.png)
 
-ETH: 0x7c56d55cB972D28049f9202b3231e4cEa9A83510 
+ETH o BNB (BSC): 0x7c56d55cB972D28049f9202b3231e4cEa9A83510 
