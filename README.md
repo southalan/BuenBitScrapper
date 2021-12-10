@@ -22,6 +22,12 @@ How to use:
 
 Note: In the future, I hope to improve the release system to be compliant with the deterministic build philosophy (https://reproducible-builds.org/docs/deterministic-build-systems/) and to also provide better security and stability for the end user. 
 
+If this was useful to you and want to help me keep developing this kind of stuff, you can always send me a donation with ETH!
+
+![imagen](https://user-images.githubusercontent.com/80550822/145650828-95c3fe7e-368f-4740-a85e-fcf4ad76ed96.png)
+
+0x7c56d55cB972D28049f9202b3231e4cEa9A83510 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Un scrapper offline para tickets de BuenBit, un exchange popular de criptomonedas de Argentina.
 
@@ -43,4 +49,10 @@ Como usar:
 4) Proveer una carpeta "Salida" a donde van a ir los resultados. (.csv, con nombre por defecto "results" en UTF-8)
 5) Disfrutar de los resultados!
 
-Note: En el futuro, espero mejorar el sistema de publicaciones para ser obediente con la filosofia de builds deterministas (https://reproducible-builds.org/docs/deterministic-build-systems/) y para darle mayor seguridad y estabilidad al usuario final. 
+Nota: En el futuro, espero mejorar el sistema de publicaciones para ser obediente con la filosofia de builds deterministas (https://reproducible-builds.org/docs/deterministic-build-systems/) y para darle mayor seguridad y estabilidad al usuario final. 
+
+Si te ha resultado util y te gustaria ayudarme a seguir desarrollando este tipo de cosas, siempre podes enviarme una donacion con ETH!
+
+![imagen](https://user-images.githubusercontent.com/80550822/145650840-c18b355d-c741-4e48-bd4c-f87b65ad6b78.png)
+
+0x7c56d55cB972D28049f9202b3231e4cEa9A83510 
